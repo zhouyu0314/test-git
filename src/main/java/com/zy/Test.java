@@ -1,2 +1,4 @@
-package com.zy;public class Test {
+package com.zy;
+
+public class Test {
 }
